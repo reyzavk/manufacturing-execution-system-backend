@@ -1,0 +1,6 @@
+Fastapi
+Uvicorn
+Sqlalchemy
+Starlette[full]
+Psycopg2
+Black
